@@ -1,0 +1,4 @@
+Auto-approve expenses under $500 for Sales.
+Reject any expense without a receipt.
+Escalate expenses above $2,000.
+Auto-approve expenses up to $250 for Marketing.
