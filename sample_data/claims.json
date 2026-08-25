@@ -1,0 +1,8 @@
+[
+  {"id":"EXP-001","employee":"Rahul Sharma","department":"Sales","amount":350,"category":"Travel","receipt":true,"description":"Client visit taxi and meals"},
+  {"id":"EXP-002","employee":"Priya Nair","department":"Marketing","amount":180,"category":"Advertising","receipt":true,"description":"Campaign promotion expense"},
+  {"id":"EXP-003","employee":"Arjun Rao","department":"Engineering","amount":2750,"category":"Software","receipt":true,"description":"Annual engineering software license"},
+  {"id":"EXP-004","employee":"Meera Das","department":"Finance","amount":420,"category":"Office","receipt":false,"description":"Office supplies"},
+  {"id":"EXP-005","employee":"Vikram Singh","department":"HR","amount":900,"category":"Training","receipt":true,"description":"Employee training workshop"},
+  {"id":"EXP-006","employee":"Ananya Patel","department":"Sales","amount":650,"category":"Travel","receipt":true,"description":"Regional customer visit"}
+]
